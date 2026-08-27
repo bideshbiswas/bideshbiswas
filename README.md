@@ -19,13 +19,6 @@ My research heavily involves building **multi-node MPI parallel processing envir
 </div>
 
 
-
-## 🔬 A little about me... 
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=bideshbiswas&data=followers,repositories,stars,commits&theme=dark)](https://github.com/bideshbiswas)
-
-
-
 <div align="center">
     <a href="https://bideshbiswas.github.io/"><img src="https://img.shields.io/badge/-Portfolio-05122A?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
     <a href="https://www.linkedin.com/in/bideshbiswasbiki1/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -68,3 +61,10 @@ My research heavily involves building **multi-node MPI parallel processing envir
 
 **Research Domains & Disciplines:** <br>
 High-Performance Computing, Parallel Computing, Machine Learning, Natural Language Processing (NLP), Image Processing, Simulation
+
+
+## 🔬 A little about me... 
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=bideshbiswas&data=followers,repositories,stars,commits&theme=dark)](https://github.com/bideshbiswas)
+
+
